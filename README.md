@@ -1,7 +1,25 @@
-Hello! You've found my personal coding space. Allow me to introduce myself first!
+<h1 align="center">Hi 👋, I'm Yahir Moreno</h1>
+<h3 align="center">A web developer enthusiast based in México</h3>
 
-My name is Yahir Moreno Barajas! I'm a mexican beginner web developer, mainly focusing in the frontend side of things, but eventually planning to try my best as a full stack dev.
+- 🔭 I’m currently working on [My portfolio](https://yahirmb-portfolio.netlify.app/)
 
-I live in a somewhat big town in México named Monclova, currently that's the site im planning to work in.
+- 🌱 I’m currently learning **React, typescript and python**
 
-I'm heavily interesed into learning all about React.js, i believe it's a really powerful tool and so i want to get advantage of its potential. I'm currently trying to learn GraphQL, Express and Typescript. And also trying my best at doing animations in sites i have already built.
+- 👨‍💻 All of my projects are available at [https://yahirmb-portfolio.netlify.app/](https://yahirmb-portfolio.netlify.app/)
+
+- 💬 Ask me about **React and frontend design**
+
+- 📫 How to reach me **yahirmb7568@gmail.com**
+
+- 📄 Know about my experiences [https://my.indeed.com/p/yahirm-gypo6lb](https://my.indeed.com/p/yahirm-gypo6lb)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yahirmb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahirmb" height="30" width="40" /></a>
+<a href="https://fb.com/yahir moreno barajas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yahir moreno barajas" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanomb&show_icons=true&locale=en&layout=compact" alt="kanomb" /></p>
