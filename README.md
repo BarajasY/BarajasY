@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yahir Moreno</h1>
 <h3 align="center">A web developer enthusiast based in México</h3>
 
-- 🔭 I’m currently working on [My portfolio](https://yahirmb-portfolio.netlify.app/)
+- 🔭 Currently working on [My portfolio](https://yahirmb-portfolio.netlify.app/)
 
-- 🌱 I’m currently learning **React, typescript and python**
+- 🌱 Currently learning **React, typescript and python**
 
 - 👨‍💻 All of my projects are available at [https://yahirmb-portfolio.netlify.app/](https://yahirmb-portfolio.netlify.app/)
 
