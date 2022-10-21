@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yahir Moreno</h1>
+<h1 align="center">Hello 👋, I'm Yahir Moreno</h1>
 <h3 align="center">A web developer enthusiast based in México</h3>
 
 - 🔭 Currently working on [My portfolio](https://yahirmb-portfolio.netlify.app/)
