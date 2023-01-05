@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on [My portfolio](https://yahirmb-portfolio.netlify.app/)
 
-- 🌱 Currently learning **React, typescript and python**
+- 🌱 Currently learning **React and typescript**
 
 - 👨‍💻 All of my projects are available at [https://yahirmb-portfolio.netlify.app/](https://yahirmb-portfolio.netlify.app/)
 
