@@ -1,5 +1,5 @@
 <h1 align="center">Yahir Moreno</h1>
-<h3 align="center">A web developer enthusiast based in México</h3>
+<h3 align="center">A web developer based in México</h3>
 
 - 🔭 Currently working on [My portfolio](https://yahirmb-portfolio.netlify.app/)
 
