@@ -3,11 +3,9 @@
 
 - 🔭 Currently working on [My portfolio](https://yahirmb-portfolio.netlify.app/)
 
-- 🌱 Currently learning **React and typescript**
+- 🌱 Currently learning **Typescript/Java-SpringBoot/React**
 
 - 👨‍💻 All of my projects are available at [https://yahirmb-portfolio.netlify.app/](https://yahirmb-portfolio.netlify.app/)
-
-- 💬 Ask me about **React and frontend design**
 
 - 📫 How to reach me **yahirmb7568@gmail.com**
 
