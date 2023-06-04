@@ -17,4 +17,5 @@
 <a href="https://fb.com/yahir moreno barajas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yahir moreno barajas" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barajasy&show_icons=true&locale=en&layout=compact" alt="kanomb" /></p>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BarajasY)](https://github.com/anuraghazra/github-readme-stats)
+
