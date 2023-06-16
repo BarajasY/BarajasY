@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yahirmb-portfolio.netlify.app/](https://yahirmb-portfolio.netlify.app/)
 
-- 📫 How to reach me **yahirmb7568@gmail.com**
-
-- 📄 Know about my experiences [https://my.indeed.com/p/yahirm-gypo6lb](https://my.indeed.com/p/yahirm-gypo6lb)
+- 📫 Reach me at **yahirmb7568@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
