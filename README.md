@@ -1,7 +1,7 @@
 <h1 align="center">Yahir Moreno</h1>
 <h3 align="center">A web developer based in México</h3>
 
-- 🔭 [My portfolio](https://yahirmb-portfolio.netlify.app/)
+- 🔭 [My portfolio](http://yahirmb.vercel.app/)
 
 - 🌱 Currently studying LeetCode/Rust/Rails
 
