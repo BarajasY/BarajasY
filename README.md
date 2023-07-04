@@ -5,8 +5,6 @@
 
 - 🌱 Currently studying LeetCode/Rust/Rails
 
-- 👨‍💻 All of my projects are available at [https://yahirmb-portfolio.netlify.app/](https://yahirmb-portfolio.netlify.app/)
-
 - 📫 Reach me at **yahirmb7568@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
