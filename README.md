@@ -3,7 +3,7 @@
 
 - 🔭 [My portfolio](http://yahirmb.vercel.app/)
 
-- 🌱 Currently studying LeetCode/Rust/Rails
+- 🌱 Currently studying LeetCode/Rust
 
 - 📫 Reach me at **yahirmb7568@gmail.com**
 
