@@ -1,7 +1,7 @@
 <h1 align="center">Yahir Moreno</h1>
 <h3 align="center">Full-Stack developer based in México</h3>
 
-- 🔭 [My portfolio](http://yahirmb.vercel.app/)
+- 🔭 [My portfolio](http://yahir.vercel.app/)
 
 - 🌱 Currently studying LeetCode/Rust/Go/Three.js
 
