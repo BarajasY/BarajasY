@@ -11,5 +11,3 @@
 <a href="https://linkedin.com/in/yahirmb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahirmb" height="30" width="40" /></a>
 <a href="https://fb.com/yahir moreno barajas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yahir moreno barajas" height="30" width="40" /></a>
 </p>
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=barajasy&hide=html,css&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
